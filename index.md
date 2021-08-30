@@ -1,25 +1,23 @@
-# Welcome to the GitHub Page 
+# Jiahui's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## My Favorite Things about CS193
+- more casual and comfortable (less hardcore)
+- opportunity to make friends
+- get to learn extra things not focused on in big class
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### A Message from our Sponsors
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+## A Message from our Sponsors
 **You are reading words of the past in the present.** _Tricky how that works._
 
-[Link](url) and ![Image](src)
+### How it looks
+
 ```
+# Jiahui's First CS193 Homework
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## My Favorite Things about CS193
+- more casual and comfortable (less hardcore)
+- opportunity to make friends
+- get to learn extra things not focused on in big class
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## A Message from our Sponsors
+**You are reading words of the past in the present.** _Tricky how that works._
+```
